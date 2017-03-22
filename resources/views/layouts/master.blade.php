@@ -100,9 +100,9 @@
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
 							<li class="active"><a href="{{ url('/') }}">Inicio</a></li>
-							<li><a href="courses.html">Egresados</a></li>
-							<li><a href="teacher.html">Empresas</a></li>
-							<li><a href="about.html">Proyectos Vinculados</a></li>
+							<li><a href="{{ url ('/graduates')}}">Egresados</a></li>
+							<li><a href="{{ url ('/company')}}">Empresas</a></li>
+							<li><a href="{{ url ('/projects')}}">Proyectos Vinculados</a></li>
 							<!--<li><a href="pricing.html">Pricing</a></li>
 							<li class="has-dropdown">
 								<a href="blog.html">Blog</a>
