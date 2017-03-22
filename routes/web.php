@@ -22,3 +22,11 @@ Route::get('/home', 'HomeController@index');
 Route::get('/test', function(){
 	return view('front-end.index');
 });
+
+Route::get('/company', function(){
+	return view('front-end.company');
+});
+
+Route::get('/projects', function(){
+	return view('front-end.projects');
+});

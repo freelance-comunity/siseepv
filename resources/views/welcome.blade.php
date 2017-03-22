@@ -483,18 +483,18 @@ INICIO
         <h2><span>Instagram Gallery</span></h2>
     </div>
     <div class="row">
-        <div class="col-md-3 col-padded">
-            <a href="#" class="gallery" style="background-image: url(images/project-5.jpg);"></a>
+            <div class="col-md-3 col-padded">
+                <a target="_blank" href="https://www.instagram.com/p/BR6ksxUB3eF/?taken-by=tectuxtla" class="gallery" style="background-image: url(images/img_i.jpg);"></a>
+            </div>
+            <div class="col-md-3 col-padded">
+                <a target="_blank" href="https://www.instagram.com/p/BRv7UZ5hLjT/?taken-by=tectuxtla" class="gallery" style="background-image: url(images/img_i2.jpg);"></a>
+            </div>
+            <div class="col-md-3 col-padded">
+                <a target="_blank" href="https://www.instagram.com/p/BR8tCWCh0Mc/?taken-by=tectuxtla" class="gallery" style="background-image: url(images/img_i_3.jpg);"></a>
+            </div>
+            <div class="col-md-3 col-padded">
+                <a  target="_blank" href="https://www.instagram.com/p/BRvgkl8h5yB/?taken-by=tectuxtla" class="gallery" style="background-image: url(images/img_i_4.jpg);"></a>
+            </div>
         </div>
-        <div class="col-md-3 col-padded">
-            <a href="#" class="gallery" style="background-image: url(images/project-2.jpg);"></a>
-        </div>
-        <div class="col-md-3 col-padded">
-            <a href="#" class="gallery" style="background-image: url(images/project-3.jpg);"></a>
-        </div>
-        <div class="col-md-3 col-padded">
-            <a href="#" class="gallery" style="background-image: url(images/project-4.jpg);"></a>
-        </div>
-    </div>
 </div>
 @endsection
