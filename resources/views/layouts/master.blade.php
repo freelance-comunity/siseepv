@@ -175,7 +175,7 @@
 					<h3>Legal</h3>
 					<ul class="fh5co-footer-links">
 						<li><a href="{{ url('/organization')}}">Organización Jerárquica</a></li>
-						<li><a href="#">Find Developers</a></li>
+						<li><a href="{{ url('/academic')}}">Cuerpo Acedémico</a></li>
 						<li><a href="#">Teams</a></li>
 						<li><a href="#">Advertise</a></li>
 						<li><a href="#">API</a></li>

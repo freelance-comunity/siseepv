@@ -34,3 +34,7 @@ Route::get('/projects', function(){
 Route::get('/organization', function(){
 	return view('front-end.organization');
 });
+
+Route::get('/academic', function(){
+	return view('front-end.academic');
+});
