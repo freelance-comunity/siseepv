@@ -480,7 +480,7 @@ INICIO
 
 <div id="fh5co-gallery" class="fh5co-bg-section">
     <div class="row text-center">
-        <h2><span>Instagram Gallery</span></h2>
+        <h2><span>Galeria de Instagram</span></h2>
     </div>
     <div class="row">
             <div class="col-md-3 col-padded">
