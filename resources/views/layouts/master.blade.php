@@ -41,6 +41,8 @@
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
 	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Font Awesome Fonts -->
+	<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
 	<!-- Bootstrap  -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 
@@ -79,7 +81,7 @@
 				<div class="row">
 					<div class="col-xs-12 text-right">
 						<p class="site">www.siseepv.com</p>
-						<p class="num">Call: +01 123 456 7890</p>
+						<p class="num">Llamanos: (961) 61 5 04 61</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-facebook2"></i></a></li>
 							<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -97,11 +99,11 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
-							<li class="active"><a href="index.html">Inicio</a></li>
+							<li class="active"><a href="{{ url('/') }}">Inicio</a></li>
 							<li><a href="courses.html">Egresados</a></li>
 							<li><a href="teacher.html">Empresas</a></li>
 							<li><a href="about.html">Proyectos Vinculados</a></li>
-							<li><a href="pricing.html">Pricing</a></li>
+							<!--<li><a href="pricing.html">Pricing</a></li>
 							<li class="has-dropdown">
 								<a href="blog.html">Blog</a>
 								<ul class="dropdown">
@@ -110,7 +112,7 @@
 									<li><a href="#">Branding</a></li>
 									<li><a href="#">API</a></li>
 								</ul>
-							</li>
+							</li>-->
 							<li><a href="contact.html">Contacto</a></li>
 							<li class="btn-cta"><a href="{{ route('login') }}"><span>Entrar</span></a></li>
 							<li class="btn-cta"><a href="{{ route('register') }}"><span>Crear cuenta</span></a></li>
