@@ -30,3 +30,7 @@ Route::get('/company', function(){
 Route::get('/projects', function(){
 	return view('front-end.projects');
 });
+
+Route::get('/organization', function(){
+	return view('front-end.organization');
+});
