@@ -113,8 +113,8 @@
 								</ul>
 							</li>
 							<li><a href="contact.html">Contact</a></li>
-							<li class="btn-cta"><a href="#"><span>Login</span></a></li>
-							<li class="btn-cta"><a href="#"><span>Create a Course</span></a></li>
+							<li class="btn-cta"><a href="{{ route('login') }}"><span>Login</span></a></li>
+							<li class="btn-cta"><a href="{{ route('register') }}"><span>Create a account</span></a></li>
 						</ul>
 					</div>
 				</div>
