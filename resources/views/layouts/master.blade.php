@@ -78,7 +78,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-right">
-						<p class="site">www.yourdomainname.com</p>
+						<p class="site">www.siseepv.com</p>
 						<p class="num">Call: +01 123 456 7890</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-facebook2"></i></a></li>
@@ -114,7 +114,7 @@
 							</li>
 							<li><a href="contact.html">Contact</a></li>
 							<li class="btn-cta"><a href="{{ route('login') }}"><span>Login</span></a></li>
-							<li class="btn-cta"><a href="{{ route('register') }}"><span>Create a account</span></a></li>
+							<li class="btn-cta"><a href="{{ route('register') }}"><span>Create account</span></a></li>
 						</ul>
 					</div>
 				</div>

@@ -4,7 +4,7 @@
 <aside id="fh5co-hero">
         <div class="flexslider">
             <ul class="slides">
-            <li style="background-image: url(images/img_bg_1.jpg);">
+            <li style="background-image: url(images/img_bg_5.jpeg);">
                 <div class="overlay-gradient"></div>
                 <div class="container">
                     <div class="row">
@@ -18,7 +18,7 @@
                     </div>
                 </div>
             </li>
-            <li style="background-image: url(images/img_bg_2.jpg);">
+            <li style="background-image: url(images/img_bg_6.jpeg);">
                 <div class="overlay-gradient"></div>
                 <div class="container">
                     <div class="row">
@@ -32,7 +32,7 @@
                     </div>
                 </div>
             </li>
-            <li style="background-image: url(images/img_bg_3.jpg);">
+            <li style="background-image: url(images/img_bg_7.jpg);">
                 <div class="overlay-gradient"></div>
                 <div class="container">
                     <div class="row">
