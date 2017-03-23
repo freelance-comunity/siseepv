@@ -1,4 +1,7 @@
 @extends('layouts.master')
+@section('title')
+EMPRESAS
+@endsection
 @section('content')
 	<aside id="fh5co-hero">
 		<div class="flexslider">

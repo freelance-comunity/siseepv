@@ -1,4 +1,7 @@
 @extends('layouts.master')
+@section('title')
+PROYECTOS VINCULADOS
+@endsection
 @section('content')
 	
 	<aside id="fh5co-hero">
