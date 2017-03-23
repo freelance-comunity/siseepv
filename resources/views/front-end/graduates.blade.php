@@ -9,7 +9,7 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center slider-text">
 							<div class="slider-text-inner">
-								<h1 class="heading-section">Egresados</h1>
+								<h1 class="heading-section">Egresados..</h1>
 								<h2>Programa Institucional de Seguimiento a Egresados</h2>
 							</div>
 						</div>
