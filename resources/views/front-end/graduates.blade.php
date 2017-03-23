@@ -10,7 +10,7 @@
 						<div class="col-md-8 col-md-offset-2 text-center slider-text">
 							<div class="slider-text-inner">
 								<h1 class="heading-section">Egresados</h1>
-								<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+								<h2>Programa Institucional de Seguimiento a Egresados</h2>
 							</div>
 						</div>
 					</div>
