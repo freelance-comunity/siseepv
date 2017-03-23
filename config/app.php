@@ -180,6 +180,7 @@ return [
         // ...
         Collective\Html\HtmlServiceProvider::class,
         // ...
+        Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
 
         ],
 
@@ -234,6 +235,7 @@ return [
     'Form' => Collective\Html\FormFacade::class,
     'Html' => Collective\Html\HtmlFacade::class,
     // ...
+    'AdminLTE' => Acacha\AdminLTETemplateLaravel\Facades\AdminLTE::class,
 
     ],
 
