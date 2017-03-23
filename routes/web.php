@@ -23,6 +23,10 @@ Route::get('/test', function(){
 	return view('front-end.index');
 });
 
+Route::get('/graduates', function(){
+	return view('front-end.graduates');
+});
+
 Route::get('/company', function(){
 	return view('front-end.company');
 });
