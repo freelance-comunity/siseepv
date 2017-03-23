@@ -93,7 +93,7 @@
 					</span>
 					<div class="desc">
 					<h3><a href="#">Educación Continua</a></h3>
-						<p>Publica gratis tus ofertas laborales y selecciona los mejores talentos profesionales.</p>
+						<p>Te ofrecemos talleres y cursos para que te capacites y estes actualizado en las nuevas tecnólogias.</p>
 					</div>
 				</div>
 			</div>
@@ -104,7 +104,7 @@
 					</span>
 					<div class="desc">
 						<h3><a href="#">Bolsa de trabajo</a></h3>
-						<p>Facilita la búsqueda, prospección de empleos y fortalece la vinculación del entorno laboral con el ITTG.</p>
+						<p>Empresas pueden busarte a ti mediante nuestra bolsa de trabajo.</p>
 					</div>
 				</div>
 			</div>
@@ -115,7 +115,7 @@
 					</span>
 					<div class="desc">
 						<h3><a href="#">Congresos</a></h3>
-						<p>Realiza solicitudes de empleo, residencias profesionales y servicio social para tu empresa.</p>
+						<p>Constantemente se realizan talleres en el Instituto Tecnólogico de Tuxtla Gutiérrez, de los cuales te puedes enterar a traves de nuestro sistema.</p>
 					</div>
 				</div>
 			</div>
@@ -126,7 +126,7 @@
 					</span>
 					<div class="desc">
 						<h3><a href="#">Talleres</a></h3>
-						<p>Accede a vacantes en línea y contacta a organizaciones empleadoras.</p>
+						<p>La carrera de Sistemas Computacionales te ofrece capacitación constante a traves de los talleres que ofrece.</p>
 					</div>
 				</div>
 			</div>
